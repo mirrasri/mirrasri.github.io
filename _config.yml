@@ -1,6 +1,6 @@
 # Site settings
 author: Kimfucious
-baseurl: "mirrasri.github.io"
+baseurl: "/mirrasri.github.io"
 brand: Sakura
 copyright: abts.io
 description: A clean Jekyll theme with baked in Bootstrap 4, responsive images, and more...
