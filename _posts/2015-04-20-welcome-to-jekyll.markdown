@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "HAPPY BIRTHDAY MY LOVE!!!"
-date:   2019-12-23 08:43:59
-author: Sritaran
-categories: 
-tags:	birthday
+title:  "Happy Birthday!"
+date:   2015-04-20 08:43:59
+author: Papa-Gateau
+categories: Birthday
+tags:	Birthday
 cover:  "/assets/pic2.jpg"
 ---
 
